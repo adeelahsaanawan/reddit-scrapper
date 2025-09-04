@@ -35,6 +35,8 @@ Required variables:
 - `REDDIT_CLIENT_SECRET`
 - `REDDIT_USER_AGENT` (any descriptive string)
 
+You can also put these variables directly in the python script.
+
 ### 3. Run
 
 ```bash
